@@ -1,2 +1,2 @@
-# mails
+# Mailings
 Mails Midtail
